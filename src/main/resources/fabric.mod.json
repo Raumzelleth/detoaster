@@ -4,13 +4,12 @@
   "version": "${version}",
 
   "name": "Detoaster",
-  "description": "A simple mod which disables toasts.",
+  "description": "A simple mod which completely disables toasts by overwriting ToastManager.",
   "authors": [
     "Raumzelleth"
   ],
   "contact": {
-    "homepage": "",
-    "sources": ""
+    "sources": "https://github.com/Raumzelleth/detoaster"
   },
 
   "license": "GNU GPLv3",
